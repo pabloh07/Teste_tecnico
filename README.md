@@ -7,7 +7,7 @@
 * Inserção de caracteres que não sejam letras - Inválido
 * Enviar campo de nome vazio - Inválido
 * Testar o limite de caracteres do banco de dados - Aceito (até o limite)
-* Testar nome duplicado - Depende da regra de negócio (sistemas costumam aceitar homônimos)
+* Testar nome duplicado - Depende da regra de negócio (depende do sistema pois existem homônimos)
 
 **E-mail:**
 
